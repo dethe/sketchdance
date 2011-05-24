@@ -29,3 +29,14 @@ So far I have the basics working, but I still need:
 * [Express Resource routing](https://github.com/visionmedia/express-resource)
 * [Stylus CSS](http://learnboost.github.com/stylus/)
 * [Backbone](http://documentcloud.github.com/backbone/)
+* [Augment](http://olivernn.github.com/augment.js/)
+* [Chrono](https://github.com/avk/jQuery-Chrono/)
+* [Sprite](https://github.com/batiste/sprite.js/)
+* [YepNope](http://yepnopejs.com/)
+* [Modernizr](http://www.modernizr.com/)
+* [LawnChair](http://westcoastlogic.com/lawnchair/)
+* [JSONSelect](http://jsonselect.org/)
+* [HTML Forms Polyfill  - H5F](https://github.com/ryanseddon/H5F)
+* 
+
+

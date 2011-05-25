@@ -24,6 +24,7 @@ So far I have the basics working, but I still need:
 * [Underscore String](https://github.com/edtsech/underscore.string)
 * [CoffeeScript](http://jashkenas.github.com/coffee-script/)
 * [Stache middleware](https://github.com/fat/stache)
+* [Mustachio (better?) middleware](https://github.com/dandean/mustachio)
 * [Express](http://expressjs.com/guide.html)
 * [Connect middleware](https://github.com/senchalabs/connect)
 * [Express Resource routing](https://github.com/visionmedia/express-resource)
@@ -37,6 +38,6 @@ So far I have the basics working, but I still need:
 * [LawnChair](http://westcoastlogic.com/lawnchair/)
 * [JSONSelect](http://jsonselect.org/)
 * [HTML Forms Polyfill  - H5F](https://github.com/ryanseddon/H5F)
-* 
+*  
 
 

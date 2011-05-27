@@ -18,6 +18,7 @@ So far I have the basics working, but I still need:
 
 * [Markdown Basics](http://daringfireball.net/projects/markdown/basics)
 * [Markdown Syntax](http://daringfireball.net/projects/markdown/syntax)
+* [MultiMarkdown](http://fletcherpenney.net/multimarkdown/features/)
 * [npm registry](http://search.npmjs.org/)
 * [Raphael](http://raphaeljs.com/reference.html)
 * [Underscore](http://documentcloud.github.com/underscore/)
@@ -40,4 +41,10 @@ So far I have the basics working, but I still need:
 * [HTML Forms Polyfill  - H5F](https://github.com/ryanseddon/H5F)
 *  
 
+## Command-line processing
+
+coffee --compile --watch --output public/js scripts
+stylus --compress --watch --out public/css styles
+? mustache 
+? markdown (mmd, but need a watch script)
 

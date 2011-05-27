@@ -1,11 +1,11 @@
 var express = require('express'),
     connect = require('connect'),
+    mustachio = require('mustachio'),
     app = express.createServer();
 
 // Set up mustache view engine for templates
 app.set('view engine', 'mustache');
-// app.set('views', __dirname + '/views');
-app.register('.mustache', require('stache'));
+app.register('.mustache', mustachio);
 app.use(express.static(__dirname + '/public'));
 
 // Set up stylus middleware for CSS

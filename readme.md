@@ -43,8 +43,8 @@ So far I have the basics working, but I still need:
 
 ## Command-line processing
 
-coffee --compile --watch --output public/js scripts
-stylus --compress --watch --out public/css styles
-? mustache 
-? markdown (mmd, but need a watch script)
+* coffee --compile --watch --output public/js scripts
+* stylus --compress --watch --out public/css styles
+* ? mustache 
+* ? markdown (mmd, but need a watch script)
 
